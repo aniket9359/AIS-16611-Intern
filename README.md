@@ -60,15 +60,15 @@ Task 3-Break Statment-
 Explaination-In Python, the break statement is used to immediately exit a loop when a certain condition is met. 
 #When working with nested loops, the break statement can be used to break out of both the inner and outer loops.
 
-Task 4- continue Statment-
+Task 3- continue Statment-
 Explaination- The continue statement in Python is used to skip the remaining code inside a loop for the current iteration only.
 
-Task 4-Pass statment-
+Task 3-Pass statment-
 Explaination-
 The “pass” statement is a placeholder in Python code that signifies that a particular code block is empty or yet to be written. 
 It is used to suppress errors and prevent unexpected behavior,and it is often employed in functions, classes, loops, and conditional statements.
 
-Task 4-Statistical user defined funtion-
+Task 3-Statistical user defined funtion-
 Explaination-In this Task we defined various statistical function like mean,mode,median,etc.first import the library statistics.
 
 Task 4-logical drfined functions-
