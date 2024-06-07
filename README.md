@@ -56,4 +56,22 @@ A while loop is a control flow statement which repeatedly executes a block of co
 It stops executing the block only if the condition fails. 
 One should use a 'while' loop when one needs to perform a repeated operation, but doesn't know in advance how many iterations would be needed.
 
+Task 3-Break Statment-
+Explaination-In Python, the break statement is used to immediately exit a loop when a certain condition is met. 
+#When working with nested loops, the break statement can be used to break out of both the inner and outer loops.
+
+Task 4- continue Statment-
+Explaination- The continue statement in Python is used to skip the remaining code inside a loop for the current iteration only.
+
+Task 4-Pass statment-
+Explaination-
+The “pass” statement is a placeholder in Python code that signifies that a particular code block is empty or yet to be written. 
+It is used to suppress errors and prevent unexpected behavior,and it is often employed in functions, classes, loops, and conditional statements.
+
+Task 4-Statistical user defined funtion-
+Explaination-In this Task we defined various statistical function like mean,mode,median,etc.first import the library statistics.
+
+Task 4-logical drfined functions-
+Explaintion-Python logical operators are used to combine conditional statements, allowing you to perform operations based on multiple conditions. These Python operators, alongside arithmetic operators, are special symbols used to carry out computations on values and variables.
+
 
