@@ -71,7 +71,7 @@ It is used to suppress errors and prevent unexpected behavior,and it is often em
 Task 3-Statistical user defined funtion-
 Explaination-In this Task we defined various statistical function like mean,mode,median,etc.first import the library statistics.
 
-Task 4-logical drfined functions-
+Task 3-logical drfined functions-
 Explaintion-Python logical operators are used to combine conditional statements, allowing you to perform operations based on multiple conditions. These Python operators, alongside arithmetic operators, are special symbols used to carry out computations on values and variables.
 
 
