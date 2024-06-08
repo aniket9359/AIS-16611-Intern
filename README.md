@@ -74,4 +74,8 @@ Explaination-In this Task we defined various statistical function like mean,mode
 Task 3-logical drfined functions-
 Explaintion-Python logical operators are used to combine conditional statements, allowing you to perform operations based on multiple conditions. These Python operators, alongside arithmetic operators, are special symbols used to carry out computations on values and variables.
 
+ Task 4-NumPy Libarary
+Explaination-
+NumPy is a python library.NumPy is used for working with arrays.NumPy is short for "Numerical Python".
+
 
