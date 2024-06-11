@@ -78,4 +78,8 @@ Explaintion-Python logical operators are used to combine conditional statements,
 Explaination-
 NumPy is a python library.NumPy is used for working with arrays.NumPy is short for "Numerical Python".
 
+Task 5-Pandas Library-Series
+Explaination:Pandas Series is a one-dimensional labeled array capable of holding data of any type (integer, string, float, python objects, etc.).
+#A Pandas Series is like a column in a table.
+
 
