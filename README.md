@@ -82,4 +82,12 @@ Task 5-Pandas Library-Series
 Explaination:Pandas Series is a one-dimensional labeled array capable of holding data of any type (integer, string, float, python objects, etc.).
 #A Pandas Series is like a column in a table.
 
+Task 5-Data Frame-Explaiantion:A simple way to store big data sets is to use CSV files (comma separated files). #CSV files contains plain text and is a well know format that can be read by everyone including Pandas. #Example import pandas as pd df = pd.read_csv('C:/Users\Shivshri/Downloads/data.csv') print(df.to_string()) #use to_string() to print the entire DataFrame.
+
+Task 5-Data Frame Opertion-Explaination:Creating a data frame apply operations like value counts,apply,nunique,unique,ect..
+
+Task 5-Selection-Explaination-In this notebook we have creating data frame and then select row coloumn then add or delete coloumn ,update or remove index,operation between two coloumn.
+
+Task 5-Missing values-Explaination-Missing values checking ,missing values fill by using mean and median.
+
 
