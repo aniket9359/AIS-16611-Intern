@@ -90,4 +90,15 @@ Task 5-Selection-Explaination-In this notebook we have creating data frame and t
 
 Task 5-Missing values-Explaination-Missing values checking ,missing values fill by using mean and median.
 
+Task6-Matplotlib-Explaination:It is a low level graph plotting library in python that serves as a visualization utility.
+Matplotlib was created by John D. Hunter.
+Matplotlib is open source and we can use it freely.
+Matplotlib is mostly written in python, a few segments are written in C, Objective-C and Javascript for Platform compatibility.
+
+Task 6-Seaborn :
+Explaination:
+it is an amazing visualization library for statistical graphics plotting in Python.
+ It provides beautiful default styles and color palettes to make statistical plots more attractive. 
+It is built on top matplotlib library and is also closely integrated with the data structures from pandas.
+
 
