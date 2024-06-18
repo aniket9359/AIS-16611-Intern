@@ -101,4 +101,6 @@ it is an amazing visualization library for statistical graphics plotting in Pyth
  It provides beautiful default styles and color palettes to make statistical plots more attractive. 
 It is built on top matplotlib library and is also closely integrated with the data structures from pandas.
 
+Task 7-Exercises on the above task.
+
 
